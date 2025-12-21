@@ -1,4 +1,4 @@
-# ProgrammingForDataScience - G8 - 2025
+# ProgrammingForDataScience - G09 - 2025
 
 ## Project Goal
 In the wake of increasing mobility across Europe, fueled by remote work, international education, and shifting social and economic priorities, there has been growing demand for tools that help citizens make better-informed decisions about where to live. Recognizing this, the European Commission’s Directorate-General for Employment, Social Affairs and Inclusion (DG EMPL) has launched a new initiative focused on improving access to comparative information about living conditions, opportunities, and quality of life across member states.
@@ -9,9 +9,7 @@ This project, "Where Should I Live", aims to simplify this decision-making proce
 
 
 ## Structure
-- NB0: Data Exploration
 - NB1: Data Wrangling and Analysis
-- NB2: Web Scrapping
-- NB3: Interactive Map
-- NB4: Data Science in Action
+- NB2: Interactive Map
+- NB3: Data Science in Action
 
